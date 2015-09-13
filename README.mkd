@@ -1,0 +1,4 @@
+# Shelf: a Emacs Webserver Interface
+
+**Shelf** provides a minimal interface between webservers that support Rmeacs and Emacs frameworks.
+
